@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Audio datasets and generated files
+/data/
+/datasets/
+/checkpoints/
+/outputs/
+*.wav
+*.mp3
+*.flac
+*.pt
+*.pth
+*.ckpt
