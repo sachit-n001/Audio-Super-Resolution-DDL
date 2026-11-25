@@ -1,0 +1,22 @@
+{
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "torch_version": "2.13.0+cu132",
+  "nanogpt_revision": "3adf61e154c3fe3fca428ad6bc3818b27a3b8291",
+  "world_size": 1,
+  "global_batch": 32,
+  "updates": 2000,
+  "warmup_updates": 50,
+  "measured_training_seconds": 9.598379448056221,
+  "mean_step_ms": 4.922245870798062,
+  "clips_per_second": 6501.097433967012,
+  "training_seconds_including_warmup": 10.428768040030263,
+  "peak_allocated_gib_after_warmup": 0.09138870239257812,
+  "train_clips": 30,
+  "validation_clips": 8,
+  "validation_baseline_mse": 7.429736433550715e-05,
+  "validation_reconstruction_mse": 8.032661571633071e-05,
+  "validation_low_band_mse": 1.3904206302218175e-17,
+  "validation_improvement_percent": -8.115027275526288,
+  "residual_scale": 0.0068665132857859135,
+  "condition_scale": 0.11250229179859161
+}
