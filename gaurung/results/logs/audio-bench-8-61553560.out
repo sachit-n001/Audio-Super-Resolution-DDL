@@ -1,0 +1,52 @@
+GPU: NVIDIA A100-SXM4-40GB
+Train clips: 30; validation clips: 8
+Global batch: 32; updates: 2000; warmup: 50
+Residual scale: 6.866513286e-03
+/pscratch/sd/g/gsv20/perlmutter-class/dist_dl/lib/python3.12/site-packages/torch/distributed/c10d_logger.py:83: UserWarning: barrier(): using the device under current context. You can specify `device_id` in `init_process_group` to mute this warning.
+  return func(*args, **kwargs)
+step=1 loss=1.47753596e+00
+step=100 loss=1.98167682e+00
+step=200 loss=1.05676818e+00
+step=300 loss=5.01185238e-01
+step=400 loss=5.37733912e-01
+step=500 loss=6.48785949e-01
+step=600 loss=2.35015810e-01
+step=700 loss=3.57558399e-01
+step=800 loss=1.28175884e-01
+step=900 loss=2.16277212e-01
+step=1000 loss=5.19956231e-01
+step=1100 loss=2.74246365e-01
+step=1200 loss=2.18739271e-01
+step=1300 loss=1.28544927e-01
+step=1400 loss=2.35063702e-01
+step=1500 loss=1.01203650e-01
+step=1600 loss=1.00145981e-01
+step=1700 loss=1.15448475e-01
+step=1800 loss=1.14076093e-01
+step=1900 loss=8.19337070e-02
+step=2000 loss=8.61500800e-02
+{
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "torch_version": "2.13.0+cu132",
+  "nanogpt_revision": "3adf61e154c3fe3fca428ad6bc3818b27a3b8291",
+  "world_size": 8,
+  "local_batch": 4,
+  "global_batch": 32,
+  "updates": 2000,
+  "warmup_updates": 50,
+  "measured_training_seconds": 13.267632576003962,
+  "mean_step_ms": 6.803914141540493,
+  "clips_per_second": 4703.1751627534195,
+  "training_seconds_including_warmup": 14.022039802002837,
+  "peak_allocated_gib_after_warmup": 0.04340648651123047,
+  "train_clips": 30,
+  "validation_clips": 8,
+  "validation_baseline_mse": 7.429736433550715e-05,
+  "validation_reconstruction_mse": 8.022091060411185e-05,
+  "validation_low_band_mse": 1.3960416533563604e-17,
+  "validation_improvement_percent": -7.97275424449182,
+  "residual_scale": 0.0068665132857859135,
+  "condition_scale": 0.11250229179859161
+}
+RUN COMPLETE: runs/61553560
+Quality must be assessed from validation metrics; completion is not a quality pass.
