@@ -1,0 +1,161 @@
+{
+  "train": [
+    {
+      "song": "train/Music Delta - Disco/mixture.wav",
+      "offset_seconds": 15
+    },
+    {
+      "song": "train/Music Delta - Disco/mixture.wav",
+      "offset_seconds": 30
+    },
+    {
+      "song": "train/Music Delta - Disco/mixture.wav",
+      "offset_seconds": 45
+    },
+    {
+      "song": "train/Music Delta - Disco/mixture.wav",
+      "offset_seconds": 60
+    },
+    {
+      "song": "train/Clara Berry And Wooldog - Waltz For My Victims/mixture.wav",
+      "offset_seconds": 15
+    },
+    {
+      "song": "train/Clara Berry And Wooldog - Waltz For My Victims/mixture.wav",
+      "offset_seconds": 30
+    },
+    {
+      "song": "train/Clara Berry And Wooldog - Waltz For My Victims/mixture.wav",
+      "offset_seconds": 45
+    },
+    {
+      "song": "train/Clara Berry And Wooldog - Waltz For My Victims/mixture.wav",
+      "offset_seconds": 60
+    },
+    {
+      "song": "train/Music Delta - Britpop/mixture.wav",
+      "offset_seconds": 15
+    },
+    {
+      "song": "train/Music Delta - Britpop/mixture.wav",
+      "offset_seconds": 30
+    },
+    {
+      "song": "train/Chris Durban - Celebrate/mixture.wav",
+      "offset_seconds": 15
+    },
+    {
+      "song": "train/Chris Durban - Celebrate/mixture.wav",
+      "offset_seconds": 30
+    },
+    {
+      "song": "train/Chris Durban - Celebrate/mixture.wav",
+      "offset_seconds": 45
+    },
+    {
+      "song": "train/Chris Durban - Celebrate/mixture.wav",
+      "offset_seconds": 60
+    },
+    {
+      "song": "train/Grants - PunchDrunk/mixture.wav",
+      "offset_seconds": 15
+    },
+    {
+      "song": "train/Grants - PunchDrunk/mixture.wav",
+      "offset_seconds": 30
+    },
+    {
+      "song": "train/Grants - PunchDrunk/mixture.wav",
+      "offset_seconds": 45
+    },
+    {
+      "song": "train/Grants - PunchDrunk/mixture.wav",
+      "offset_seconds": 60
+    },
+    {
+      "song": "train/James May - On The Line/mixture.wav",
+      "offset_seconds": 15
+    },
+    {
+      "song": "train/James May - On The Line/mixture.wav",
+      "offset_seconds": 30
+    },
+    {
+      "song": "train/James May - On The Line/mixture.wav",
+      "offset_seconds": 45
+    },
+    {
+      "song": "train/James May - On The Line/mixture.wav",
+      "offset_seconds": 60
+    },
+    {
+      "song": "train/Lushlife - Toynbee Suite/mixture.wav",
+      "offset_seconds": 15
+    },
+    {
+      "song": "train/Lushlife - Toynbee Suite/mixture.wav",
+      "offset_seconds": 30
+    },
+    {
+      "song": "train/Lushlife - Toynbee Suite/mixture.wav",
+      "offset_seconds": 45
+    },
+    {
+      "song": "train/Lushlife - Toynbee Suite/mixture.wav",
+      "offset_seconds": 60
+    },
+    {
+      "song": "train/Faces On Film - Waiting For Ga/mixture.wav",
+      "offset_seconds": 15
+    },
+    {
+      "song": "train/Faces On Film - Waiting For Ga/mixture.wav",
+      "offset_seconds": 30
+    },
+    {
+      "song": "train/Faces On Film - Waiting For Ga/mixture.wav",
+      "offset_seconds": 45
+    },
+    {
+      "song": "train/Faces On Film - Waiting For Ga/mixture.wav",
+      "offset_seconds": 60
+    }
+  ],
+  "validation": [
+    {
+      "song": "train/Traffic Experiment - Sirens/mixture.wav",
+      "offset_seconds": 15
+    },
+    {
+      "song": "train/Traffic Experiment - Sirens/mixture.wav",
+      "offset_seconds": 30
+    },
+    {
+      "song": "train/Traffic Experiment - Sirens/mixture.wav",
+      "offset_seconds": 45
+    },
+    {
+      "song": "train/Traffic Experiment - Sirens/mixture.wav",
+      "offset_seconds": 60
+    },
+    {
+      "song": "train/Phre The Eon - Everybody's Falling Apart/mixture.wav",
+      "offset_seconds": 15
+    },
+    {
+      "song": "train/Phre The Eon - Everybody's Falling Apart/mixture.wav",
+      "offset_seconds": 30
+    },
+    {
+      "song": "train/Phre The Eon - Everybody's Falling Apart/mixture.wav",
+      "offset_seconds": 45
+    },
+    {
+      "song": "train/Phre The Eon - Everybody's Falling Apart/mixture.wav",
+      "offset_seconds": 60
+    }
+  ],
+  "sample_rate": 44100,
+  "samples_per_clip": 8192,
+  "channel": "left"
+}
